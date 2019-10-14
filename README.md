@@ -3,3 +3,8 @@
 ###### This is an H6 header (smallest)
 
 ## Summary This repository contains all of the notes taken by Jeff Gebert for the Lighthouse Labs Web Development Bootcamp.
+## Summary 
+
+This repository contains all of the notes taken by [Jeff](https://github.com/JeffGebert) for the Lighthouse Labs Web Development Bootcamp.
+
+[Lighthouse Labs website](https://www.lighthouselabs.ca/)
